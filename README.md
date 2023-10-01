@@ -15,8 +15,8 @@
 
 ## Instalar
 
-``pip install requests
+`pip install requests`
 
 ## comando para rodar
 
-``python3 main.py
+`python3 main.py`
